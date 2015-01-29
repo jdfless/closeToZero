@@ -1,5 +1,11 @@
-Group 14 README for Project 2
-Jonathan Flessner, Erin Marshall, Chris Sanford
+The p2.py function solves the close to zero problem (where you find the sub-array where the sum is closest to zero of
+a given array) using the sum of suffices technique with the divide and conquer technique with either enumeration
+or sort and compare. Algorithms 1 and 2 demonstrate the enumeration and sort and compare techniques with only the
+sum of suffices.
+
+Below is the usage of the program p2.py.
+
+Jonathan Flessner
 26-October-2014
 
 p2.py accepts one or zero command line arguments.
